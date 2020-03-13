@@ -6,7 +6,7 @@ class Cat
   end 
   
   def name 
-    ma.name = "Maru"
+    cat.name = "Maru"
   end
   
 end 
